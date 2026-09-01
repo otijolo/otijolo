@@ -1,1 +1,1 @@
-![isaac](otijolo/isaac.gif)
+![isaac](images/isaac.gif)
