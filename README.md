@@ -1,1 +1,1 @@
-![isaac](images/isaac.gif)
+<img src="images/isaac.gif" alt="isaacLikesIt" width="100" height="100">
