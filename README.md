@@ -9,7 +9,7 @@
 
 💬 [**more about me**](https://otijolo.github.io/portfolio/)
 
-<br clear="right">
+<br clear="left">
 <br>
 
 #### 📍 skills
