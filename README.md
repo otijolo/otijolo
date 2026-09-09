@@ -16,8 +16,6 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,js,godot,html,css,github" alt="skills" />
 
-<br>
-
 #### 📍 contact me!
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juancspereira1@gmail.com" target="_blank">
