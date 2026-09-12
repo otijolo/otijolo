@@ -4,4 +4,4 @@
 
 
 
-<img align="left" src="images/logos/githubdarktheme.gif" alt="github-logo" width="100" height="100">
+<img align="left" src="images/logos/githubdarktheme.gif" alt="github-logo" width="80" height="80">
